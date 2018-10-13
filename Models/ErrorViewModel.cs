@@ -1,11 +1,1 @@
-using System;
-
-namespace CesarWeb.Models
-{
-    public class ErrorViewModel
-    {
-        public string RequestId { get; set; }
-
-        public bool ShowRequestId => !string.IsNullOrEmpty(RequestId);
-    }
-}
+/*el domigo lo subo :v*/
